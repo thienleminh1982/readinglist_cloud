@@ -1,0 +1,7 @@
+---
+applications:
+- name: reading-list
+  memory: 512M
+  host: lmt-reading-list
+  domain: cfapps.io
+  path: build/libs/demo.war
